@@ -60,6 +60,10 @@
   color: #2f80ed;
 }
 
+.header__link:hover {
+  text-decoration: underline;
+}
+
 .header__main-illustration {
   width: 765px;
   height: 608px;
@@ -219,6 +223,10 @@
   color: #2f80ed;
 }
 
+.feynman__link:hover {
+  text-decoration: underline;
+}
+
 /* принципы обучения */
 
 .kaufman {
@@ -327,6 +335,10 @@
   font-weight: normal;
   text-decoration: none;
   color: white;
+}
+
+.footer__column-link:hover {
+  text-decoration: underline;
 }
 
 .footer__column_content_social {
